@@ -195,6 +195,6 @@ USAGE
 
 _See code: [@oclif/plugin-update](https://github.com/oclif/plugin-update/blob/v1.3.9/src\commands\update.ts)_
 <!-- commandsstop -->
-
+## Star gain chart
 [![Stargazers over time](https://starchart.cc/riazXrazor/udemy-dl.svg)](https://starchart.cc/riazXrazor/udemy-dl)
 
